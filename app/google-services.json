@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "181648405959",
+    "project_id": "covidnewsapp",
+    "storage_bucket": "covidnewsapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181648405959:android:43e0f6d0203991b02155e2",
+        "android_client_info": {
+          "package_name": "com.gunish.covidnewsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181648405959-ukatha0j9pjo3hatt2iqbjoelkb9dptn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk_NFPhvbmFOMGFE1PSF0deklTmevtu04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181648405959-ukatha0j9pjo3hatt2iqbjoelkb9dptn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
